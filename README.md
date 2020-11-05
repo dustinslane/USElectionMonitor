@@ -1,6 +1,11 @@
 # USElectionMonitor
 Monitor that pulls AP vote count feed every minute and report diffs
 
+## Download
+
+#### [Download here](https://github.com/dustinslane/USElectionMonitor/releases/latest)
+
+
 ## How to use
 
 Download the latest release zip, run the .exe. It will create a `Config.json` file for you. You can use it to tweak some settings and filter results. See below.
@@ -26,10 +31,10 @@ Config example:
 }
 ``` 
 
-`ImportantStates`: add states here to colour yellow\
-`ResultsEndpoint`: endpoint for AP results data\
-`ManifestEndpoint`: endpoint for AP manifest data\
-`FilterPresidentLastNames`: Add last names of candidates here. If no names are listed, every result that comes in is shown. Add names to only show results for names listed.
+`ImportantStates`: add states here to colour yellow  
+`ResultsEndpoint`: endpoint for AP results data  
+`ManifestEndpoint`: endpoint for AP manifest data  
+`FilterPresidentLastNames`: Add last names of candidates here. If no names are listed, every result that comes in is shown. Add names to only show results for names listed.  
 
 
 ### Disclaimer:
