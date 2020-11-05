@@ -1,6 +1,8 @@
 # USElectionMonitor
 Monitor that pulls AP vote count feed every minute and report diffs
 
+![](https://x.dustinslane.nl/img/FarflungArizonaalligatorlizardAccomplishWren-3542dab0.png)
+
 ## Download
 
 #### [Download here](https://github.com/dustinslane/USElectionMonitor/releases/latest)
