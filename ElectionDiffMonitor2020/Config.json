@@ -10,7 +10,6 @@
   "ResultsEndpoint": "https://interactives.ap.org/elections/live-data/production/2020-11-03/president/summary.json",
   "ManifestEndpoint": "https://interactives.ap.org/elections/live-data/production/2020-11-03/president/metadata.json",
   "FilterPresidentLastNames": [
-    "Biden",
-    "Trump"
+    
   ]
 }
